@@ -1,0 +1,28 @@
+.shape{
+    margin: 10px;
+    padding: 0px 10px;
+    background-color: #354A9F;
+}
+.title_number{
+    font-size: 100px;
+}
+.faz{
+    font-size: 50px;
+}
+.title_faz{
+    font-size: 26px;
+}
+.line{
+    padding: 0px;
+    width: 50%;
+    height: 1px;
+    background-color: #354A9F;
+    position: absolute;
+    align-items: ;
+    bottom:27px ;
+    
+}
+.subtitle{
+    position: relative;
+    text-align: right;
+}
